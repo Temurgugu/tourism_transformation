@@ -3,6 +3,6 @@ Information Source: Book - Soviet Socialist Republic Resort and Tourism of Georg
 
 ინფორმაციის წყარო: წიგნი - საქართველოს სსრ საკურორტო მეურნეობა და ტურიზმი, ემილ კობახიძე, 1971
 
-1. Resort establishments//საკურორტო დაწესებულება | resort.csv | page//გვ.31, table/ცხრილი 6
+1. Resort establishments//საკურორტო დაწესებულება | resort.csv | page//გვ.31 | table/ცხრილი 6
 2. 
 
