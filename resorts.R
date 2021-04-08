@@ -20,7 +20,7 @@
                                                        carrying_capacity = "n"))
     
     #Prepare data for visualization (filter data)
-    
+     
     tg_resorts <- tg_resorts %>% 
                   dplyr::select(year:bed_thousand) %>% 
                   dplyr::filter(establishments_ge != "ტურბაზა (ტურისტული ბაზა)",
