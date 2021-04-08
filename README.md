@@ -14,5 +14,5 @@ Information Source: Book - Georgia and Tourism, Vaja Shubladze, 2004
 
 ინფორმაციის წყარო: წიგნი - საქართველო და ტურიზმი, ვაჟა შუბლაძე, 2004
 
-1. Resort/Tourism establishments//საკურორტო/ტურისმის დაწესებულება | tourism_1939_.csv(1988-1989) | page//გვ.42, 32 | table/ცხრილი 6, 7
+1. Resort/Tourism establishments//საკურორტო/ტურისმის დაწესებულება | tourism_1939_.csv(1988-1989) | page//გვ.42
 
