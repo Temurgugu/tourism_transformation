@@ -1,0 +1,22 @@
+﻿n,year,establishments_ge,establishments_en,accommodation_unit,bed_thousand,carrying_capacity
+1,1939,სანატორიუმი,Sanatorium,71,8.4,
+2,1945,სანატორიუმი,Sanatorium,28,2.2,
+3,1950,სანატორიუმი,Sanatorium,94,10.2,
+4,1960,სანატორიუმი,Sanatorium,82,13.3,
+5,1967,სანატორიუმი,Sanatorium,84,16.1,
+6,1939,დასასვენებლი სახლი,Holiday house,60,5.8,
+7,1945,დასასვენებლი სახლი,Holiday house,8,0.4,
+8,1950,დასასვენებლი სახლი,Holiday house,35,3.1,
+9,1960,დასასვენებლი სახლი,Holiday house,39,6.7,
+10,1967,დასასვენებლი სახლი,Holiday house,43,10,
+11,1939,პანსიონატი,Boarding house,,,
+12,1945,პანსიონატი,Boarding house,,,
+13,1950,პანსიონატი,Boarding house,,,
+14,1960,პანსიონატი,Boarding house,13,1.2,
+15,1967,პანსიონატი,Boarding house,18,5.7,
+16,1950,ტურბაზა (ტურისტული ბაზა),Turbaza,11,1.4,30
+17,1960,ტურბაზა (ტურისტული ბაზა),Turbaza,34,4.5,86
+18,1965,ტურბაზა (ტურისტული ბაზა),Turbaza,35,6,130
+19,1966,ტურბაზა (ტურისტული ბაზა),Turbaza,35,6.8,207
+20,1969,ტურბაზა (ტურისტული ბაზა),Turbaza,39,8.9,376
+21,1989,ტურისტული/საკურორტო დაწესებულება,Tourism/resort establishments,624,152.2,
