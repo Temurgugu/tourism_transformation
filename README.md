@@ -17,3 +17,12 @@ Information Source: Book - Georgia and Tourism, Vaja Shubladze, 2004
 1. Resort/Tourism establishments//საკურორტო/ტურისტული დაწესებულება | tourism_1939.csv(1988-1989) | page//გვ.42
 
 --
+
+Information Source: World bank 
+
+1. Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (1995 - 2010)
+
+--
+Information Source:  Georgian National Tourism Administration, Ministry of Internal Affairs of Georgia
+
+1. Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (2010 - 2021) | https://gnta.ge/statistics/ 
