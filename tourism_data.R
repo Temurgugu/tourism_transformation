@@ -14,7 +14,7 @@ library(grid)
 
 
 
-tg_tourism_trips <- read.csv("data/tourism_trips_1995.csv")
+tg_tourism_trips <- read.csv("data/khokhobaia_gugushvili_fig_3_tourism_trips_1995.csv")
 
 tg_tourism_trips <- tg_tourism_trips %>%
                     dplyr::filter(#type != "International Traveller Trips_!", 
@@ -43,7 +43,7 @@ tgp_trips <- ggplot2::ggplot(tg_tourism_trips, aes(year, trips, group = type_tri
                                                       "Same Day Trips",
                                                       "Tourist (Overnight) Trips"))+
                       scale_x_continuous(breaks=seq(1995, 2020, 1))+
-                      scale_y_continuous(breaks=seq(0, 10000000, 2000000), labels = scales::comma)
+                      scale_y_continuous(breaks=seq(0, 10000000, 500000), labels = scales::comma)
 
 
 #Save the ggplot
