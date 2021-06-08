@@ -13,7 +13,7 @@ library(patchwork)
     
 # import data
     
-tg_tourism_1939 <- readr::read_csv("data/khokhobaia_fig_1_tourism_1939.csv",
+tg_tourism_1939 <- readr::read_csv("data/khokhobaia_gugushvili_fig_1_tourism_1939.csv",
                                       col_types = cols(n = "c",
                                                        year = "n",
                                                        establishments_ge = "c",
