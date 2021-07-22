@@ -26,7 +26,8 @@ tg_tourism_1939 <- readr::read_csv("data/khokhobaia_gugushvili_fig_1_tourism_193
      
 tg_tourism <- tg_tourism_1939 %>% 
                      dplyr::select(year:bed_thousand) %>% 
-                     dplyr::filter(establishments_en != "Tourism/resort establishments") 
+                     dplyr::filter(establishments_en != "Tourism/resort establishments",
+                                   establishments_en != "Hotel and Hotel Type Establishment") 
 
 
 #Build the visualization 
@@ -137,8 +138,9 @@ tourism_all_bed <- ggplot2::ggplot(tg_resorts_all, aes(as.factor(year), bed_thou
                                  y = "Number of Beds (thousands)")+
                             scale_y_continuous(breaks=seq(0, 155, 20), limits = c(0, 155))+
                             scale_fill_manual(name = "Accommodation types",
-                                              labels = c("Holiday house", "Boarding housen", "Sanatorium", "Turbaza", "Tourism/resort establishments"),
-                                              values = c("#00e6e6", "#ff9900", "#ace600", "#03fccf", "#fcd303"))
+                                             labels = c("Holiday house", "Boarding housen", "Sanatorium",
+                                                        "Hotel and Hotel Type Establishment", "Turbaza", "Tourism/resort establishments"),
+                                              values = c("#00e6e6", "#ff9900", "#ace600", "#03fccf", "#fcd303", "#30A1A1"))
 
 
 #Save the ggplot
@@ -170,13 +172,14 @@ tourism_all <- ggplot2::ggplot(tg_resorts_all, aes(as.factor(year), accommodatio
                               legend.position = "none")+
                         labs(title = "",
                              subtitle ="",
-                             caption = "Source: Kobakhidze E. (1971). SSR Resort and Tourism of Georgia. Metsniereba\n             Shubladze, V. (2004). Georgia and Tourism. Gump",
+                             caption = "Source: Kobakhidze E. (1971). SSR Resort and Tourism of Georgia. Metsniereba\n             Shubladze, V. (2004). Georgia and Tourism. Gump \n   National Statistics Office of Georgia" ,
                              x = "Year",
                              y = "Accommodation Unit")+
-                        scale_y_continuous(breaks=seq(0, 630, 60), limits = c(0, 630))+
+                        scale_y_continuous(breaks=seq(0, 1700, 200), limits = c(0, 1700))+
                         scale_fill_manual(name = "Accommodation types",
-                                          labels = c("Holiday house", "Boarding housen", "Sanatorium", "Turbaza", "Tourism/resort establishments"),
-                                          values = c("#00e6e6", "#ff9900", "#ace600", "#03fccf", "#fcd303"))
+                                          labels = c("Holiday house", "Boarding housen", "Sanatorium",
+                                                     "Hotel and Hotel Type Establishment", "Turbaza", "Tourism/resort establishments"),
+                                          values = c("#00e6e6", "#ff9900", "#ace600", "#03fccf", "#fcd303", "#30A1A1"))
 
 
 

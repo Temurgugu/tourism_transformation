@@ -28,10 +28,7 @@ tgp_icvs_1992 <- ggplot(icvs_1992, aes(year_2, percentage_2, color = type)) +
           scale_color_manual(name = "Victimisation Period",
                              labels = c("Last year", "5 year"),
                              values = c("darkred", "steelblue"))+
-    labs(title = "",
-         subtitle ="",
-         caption = "Source:ICVS Report",
-         color="")
+    labs(title = "")
 
 
 #Save the ggplot

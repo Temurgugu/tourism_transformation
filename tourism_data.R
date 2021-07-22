@@ -20,7 +20,7 @@ tg_tourism_trips <- tg_tourism_trips %>%
                     dplyr::filter(#type != "International Traveller Trips_!", 
                                   #type != "Same Day Trips",
                                   #type != "International Visitor Trips",
-                                  year < 2020)
+                                  year < 2021)
 
 tgp_trips <- ggplot2::ggplot(tg_tourism_trips, aes(year, trips, group = type_trips, color = type_trips))+
                       geom_line(size = 0.7)+

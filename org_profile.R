@@ -7,6 +7,7 @@ rm(list=ls())    # clear the workspace
 library(readxl)
 library(tidyverse)
 library(networkD3)
+library(webshot)
 library(d3Network) 
 
 tourismorgprofile <- read.csv("data/tourismorgprofile.csv")
@@ -74,7 +75,6 @@ orgprofile <-  sankeyNetwork(Links = links, Nodes = nodes, Source = "IDsource",
 
 saveNetwork(orgprofile, "visualization/orgprofile.html", selfcontained = TRUE)
 
-
-
-
+# you convert it as png
+webshot("visualization/orgprofile.html","visualization/orgprofile.png", vwidth = 1000, vheight = 600)
 
