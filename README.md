@@ -1,6 +1,8 @@
 # Tourism Transformation
 
-The data prepared, analyze and visualize for the special issue "" which includes three articles:
+
+
+The data prepared, analyze and visualize for the special issue "Tourism in Georgia" in Caucasus Analytical Digest, which includes three articles:
 
 1. Tourism transformation in Soviet and Post-Soviet Era (Merab Khokhobaia and Temur Gugushvili)
 
