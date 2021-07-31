@@ -4,25 +4,26 @@
 
 --
 
-Information Source: Book - Soviet Socialist Republic Resort and Tourism of Georgia, Emil Kobakhidze, 1971 | page 31, 32 | table 6, 7
+**Information Source:** Book - Soviet Socialist Republic Resort and Tourism of Georgia, Emil Kobakhidze, 1971 | page 31, 32 | table 6, 7
 
-ინფორმაციის წყარო: წიგნი - საქართველოს სსრ საკურორტო მეურნეობა და ტურიზმი, ემილ კობახიძე, 1971 | გვ.31, 32 | ცხრილი 6, 7
+**ინფორმაციის წყარო:** წიგნი - საქართველოს სსრ საკურორტო მეურნეობა და ტურიზმი, ემილ კობახიძე, 1971 | გვ.31, 32 | ცხრილი 6, 7
 
 1. Resort/Tourism establishments//საკურორტო/ტურიზმის დაწესებულება | tourism_1939.csv(1939-1969)
  
 
 --
 
-Information Source: Book - Georgia and Tourism, Vaja Shubladze, 2004 | page 42
+**Information Source:** Book - Georgia and Tourism, Vaja Shubladze, 2004 | page 42
 
-ინფორმაციის წყარო: წიგნი - საქართველო და ტურიზმი, ვაჟა შუბლაძე, 2004 | გვ.42
+**ინფორმაციის წყარო:** წიგნი - საქართველო და ტურიზმი, ვაჟა შუბლაძე, 2004 | გვ.42
 
 1. Resort/Tourism establishments//საკურორტო/ტურისტული დაწესებულება | tourism_1939.csv(1988-1989) 
 
+--
 
-Information Source: Georgian National Tourism Administration
+**Information Source:** Georgian National Tourism Administration
 
-ინფორმაციის წყარო: საქართველოს ტურიზმის ეროვნული ადმინისტრაცია
+**ინფორმაციის წყარო:** საქართველოს ტურიზმის ეროვნული ადმინისტრაცია
 
 1. Hotel and Hotel Type Establishment//სასტუმრო და სასტუმროს ტიპის დაწესებულება | tourism_1939.csv(2015-2021) 
 
