@@ -1,5 +1,10 @@
 # Tourism Transformation
 
+The data prepared, analysed and visulise for the special issue "" which includes three articles:
+
+1. Tourism transformation in Soviet and Post-Soviet Era (Merab Khokhobaia and Temur Gugushvili)
+
+
 
 
 --
