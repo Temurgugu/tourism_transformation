@@ -1,6 +1,6 @@
 # Tourism Transformation
 
-The data prepared, analysed and visulise for the special issue "" which includes three articles:
+The data prepared, analyze and visualize for the special issue "" which includes three articles:
 
 1. Tourism transformation in Soviet and Post-Soviet Era (Merab Khokhobaia and Temur Gugushvili)
 
@@ -19,19 +19,20 @@ The data prepared, analysed and visulise for the special issue "" which includes
 
 --
 
+**Resort/Tourism establishments//საკურორტო/ტურისტული დაწესებულება | tourism_1939.csv(1988-1989)** 
+
 **Information Source:** Book - Georgia and Tourism, Vaja Shubladze, 2004 | page 42
 
 **ინფორმაციის წყარო:** წიგნი - საქართველო და ტურიზმი, ვაჟა შუბლაძე, 2004 | გვ.42
 
-1. Resort/Tourism establishments//საკურორტო/ტურისტული დაწესებულება | tourism_1939.csv(1988-1989) 
 
 --
+
+**Hotel and Hotel Type Establishment//სასტუმრო და სასტუმროს ტიპის დაწესებულება | tourism_1939.csv(2015-2021)** 
 
 **Information Source:** Georgian National Tourism Administration
 
 **ინფორმაციის წყარო:** საქართველოს ტურიზმის ეროვნული ადმინისტრაცია
-
-1. Hotel and Hotel Type Establishment//სასტუმრო და სასტუმროს ტიპის დაწესებულება | tourism_1939.csv(2015-2021) 
 
 **შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
 
@@ -39,11 +40,11 @@ The data prepared, analysed and visulise for the special issue "" which includes
 
 --
 
+**Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (1995 - 2010)**
+
 **Information Source:** World bank 
 
 **ინფორმაციის წყარო:** მსოფლიო ბანკი
-
-1. Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (1995 - 2010)
 
 **შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
 **Note:** The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
