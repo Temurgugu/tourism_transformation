@@ -27,28 +27,30 @@
 
 1. Hotel and Hotel Type Establishment//სასტუმრო და სასტუმროს ტიპის დაწესებულება | tourism_1939.csv(2015-2021) 
 
-შენიშვნა: მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
-Note:The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
+**შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
+
+**Note:** The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
 
 --
 
-Information Source: World bank 
-ინფორმაციის წყარო: მსოფლიო ბანკი
+**Information Source:** World bank 
 
+**ინფორმაციის წყარო:** მსოფლიო ბანკი
 
 1. Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (1995 - 2010)
 
-შენიშვნა: მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
-Note:The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
+**შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
+**Note:** The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
 
 
 --
 
-Information Source:  Georgian National Tourism Administration, Ministry of Internal Affairs of Georgia
-ინფორმაციის წყარო: საქართველოს ტურიზმის ეროვნული ადმინისტრაცია, შინაგან საქმეთა სამინისტრო
+**Information Source:**  Georgian National Tourism Administration, Ministry of Internal Affairs of Georgia
+
+**ინფორმაციის წყარო:** საქართველოს ტურიზმის ეროვნული ადმინისტრაცია, შინაგან საქმეთა სამინისტრო
 
 
 1. Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (2010 - 2021) | https://gnta.ge/statistics/ 
 
-შენიშვნა: მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
-Note:The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
+**შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
+**Note:** The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
