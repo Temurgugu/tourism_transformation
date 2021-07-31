@@ -63,3 +63,15 @@ The data prepared, analyzed and visualized for the special issue "Tourism in Geo
 **შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
 
 **Note:** The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
+
+📊 **Victimization trends of common crime (car theft, burglary, robbery, other personal theft and assault/threat) in Georgia | khokhobaia_gugushvili_fig_2_icvs_trends.csv **
+
+**Information Source:** Support to The Security Sector Reform Programme Preparation, Jan VAN DIJK, T Chanturia, G. Glonti, 2021 | Page 19
+
+**ინფორმაციის წყარო:**
+
+**შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
+
+**Note:** The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
+
+
