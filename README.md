@@ -42,7 +42,7 @@ The data prepared, analyzed and visualized for the special issue "Tourism in Geo
 
 --
 
-📊 **Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (1995 - 2010)**
+📊 **Trips//ვიზიტების რაოდენობა | khokhobaia_gugushvili_fig_3_tourism_trips_1995.csv (1995 - 2010)**
 
 **Information Source:** World bank 
 
@@ -54,7 +54,7 @@ The data prepared, analyzed and visualized for the special issue "Tourism in Geo
 
 --
 
-📊 **Trips//ვიზიტების რაოდენობა | tourism_trips_1995.csv (2010 - 2021)** 
+📊 **Trips//ვიზიტების რაოდენობა | khokhobaia_gugushvili_fig_3_tourism_trips_1995.csv (2010 - 2021)** 
 
 **Information Source:**  Georgian National Tourism Administration, Ministry of Internal Affairs of Georgia| | https://gnta.ge/statistics/
 
@@ -63,6 +63,8 @@ The data prepared, analyzed and visualized for the special issue "Tourism in Geo
 **შენიშვნა:** მონაცემები არ მოიცავს საქართველოს ოკუპირებულ ტერიტორიებს აფხაზეთსა და ცხინვალის რეგიონი
 
 **Note:** The data do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region
+
+--
 
 📊 **Victimization trends of common crime (car theft, burglary, robbery, other personal theft and assault/threat) in Georgia | khokhobaia_gugushvili_fig_2_icvs_trends.csv**
 
