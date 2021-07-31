@@ -9,7 +9,7 @@ The data prepared, analyze and visualize for the special issue "" which includes
 
 --
 
-📊 **Resort/Tourism establishments//საკურორტო/ტურიზმის დაწესებულება | tourism_1939.csv(1939-1969)**
+📊  **Resort/Tourism establishments//საკურორტო/ტურიზმის დაწესებულება | tourism_1939.csv(1939-1969)**
 
 **Information Source:** Book - Soviet Socialist Republic Resort and Tourism of Georgia, Emil Kobakhidze, 1971 | page 31, 32 | table 6, 7
 
