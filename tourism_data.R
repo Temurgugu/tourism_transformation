@@ -22,7 +22,7 @@ tg_tourism_trips <- tg_tourism_trips %>%
                                   #type != "International Visitor Trips",
                                   year < 2021)
 
-tgp_trips <- ggplot2::ggplot(tg_tourism_trips, aes(year, trips, group = type_trips, color = type_trips))+
+khokhobaia_gugushvili_fig_3_tourism_trips_1995 <- ggplot2::ggplot(tg_tourism_trips, aes(year, trips, group = type_trips, color = type_trips))+
                       geom_line(size = 0.7)+
                       geom_point(size = 1.5, color = "black")+
                       theme_minimal(base_family="Sylfaen")+
@@ -47,8 +47,8 @@ tgp_trips <- ggplot2::ggplot(tg_tourism_trips, aes(year, trips, group = type_tri
 
 
 #Save the ggplot
-ggsave("visualization/tgp_trips.png", 
-       plot = tgp_trips,
+ggsave("visualization/khokhobaia_gugushvili_fig_3_tourism_trips_1995.png", 
+       plot = khokhobaia_gugushvili_fig_3_tourism_trips_1995,
        units = "mm",
        width = 300,
        height = 175) 

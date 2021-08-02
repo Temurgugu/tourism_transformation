@@ -172,10 +172,10 @@ tourism_all <- ggplot2::ggplot(tg_resorts_all, aes(as.factor(year), accommodatio
                               legend.position = "none")+
                         labs(title = "",
                              subtitle ="",
-                             caption = "Source: Kobakhidze E. (1971). SSR Resort and Tourism of Georgia. Metsniereba\n             Shubladze, V. (2004). Georgia and Tourism. Gump \n   National Statistics Office of Georgia" ,
+                             caption = "Source: Kobakhidze E. (1971). SSR Resort and Tourism of Georgia. Metsniereba\n             Shubladze, V. (2004). Georgia and Tourism. Gump \n             Georgian National Tourism Administration (The data (2015-2021) do not cover occupied territories of the Abkhazian Autonomous Republic and Tskhinvali Region)" ,
                              x = "Year",
                              y = "Accommodation Unit")+
-                        scale_y_continuous(breaks=seq(0, 1700, 200), limits = c(0, 1700))+
+                        scale_y_continuous(breaks=seq(0, 3300, 300), limits = c(0, 3300))+
                         scale_fill_manual(name = "Accommodation types",
                                           labels = c("Holiday house", "Boarding housen", "Sanatorium",
                                                      "Hotel and Hotel Type Establishment", "Turbaza", "Tourism/resort establishments"),
@@ -193,13 +193,14 @@ ggsave("visualization/tourism_all.png",
 
 #grouped all charts 
 
-tourism_grouped <- (tg_tourism_diagram + tg_resort_diagram_bed) / (tourism_all + tourism_all_bed)
+khokhobaia_gugushvili_fig_1_tourism_1939 <- (tg_tourism_diagram + tg_resort_diagram_bed) / (tourism_all + tourism_all_bed)
 
 
 
 #Save the ggplot
-ggsave("visualization/tourism_grouped.png", 
-       plot = tourism_grouped,
+ggsave("visualization/khokhobaia_gugushvili_fig_1_tourism_1939.png", 
+       plot = khokhobaia_gugushvili_fig_1_tourism_1939,
        units = "mm",
        width = 250,
        height = 175)   
+

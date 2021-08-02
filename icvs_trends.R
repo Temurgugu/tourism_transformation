@@ -14,7 +14,7 @@ icvs_1992  <- icvs_1992 %>%
                             year_2 = as.numeric(year))  
 
 
-tgp_icvs_1992 <- ggplot(icvs_1992, aes(year_2, percentage_2, color = type)) +
+khokhobaia_gugushvili_fig_2_icvs_trends <- ggplot(icvs_1992, aes(year_2, percentage_2, color = type)) +
                  geom_line()+
           geom_point()+
           theme_minimal(base_family="Sylfaen")+
@@ -32,8 +32,8 @@ tgp_icvs_1992 <- ggplot(icvs_1992, aes(year_2, percentage_2, color = type)) +
 
 
 #Save the ggplot
-ggsave("visualization/tgp_icvs_1992.png", 
-       plot = tgp_icvs_1992,
+ggsave("visualization/khokhobaia_gugushvili_fig_2_icvs_trends.png", 
+       plot = khokhobaia_gugushvili_fig_2_icvs_trends,
        units = "mm",
        width = 300,
        height = 175) 

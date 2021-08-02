@@ -10,7 +10,7 @@ library(networkD3)
 library(webshot)
 library(d3Network) 
 
-tourismorgprofile <- read.csv("data/tourismorgprofile.csv")
+tourismorgprofile <- read.csv("data/khartishvili_fig_2_org_profile.csv")
 
 
 tourismorgprofile <- tourismorgprofile %>%
