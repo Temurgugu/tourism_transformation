@@ -2,10 +2,10 @@
 
 
 
-The data prepared, analyzed and visualized for the special issue "Tourism in Georgia" in Caucasus Analytical Digest, which includes three articles:
+The data prepared, analyzed and visualized for the special issue "Tourism in Georgia: From Past Lessons to Future Perspectives" in Caucasus Analytical Digest, which includes three articles:
 
-1. Tourism transformation in Soviet and Post-Soviet Era (Merab Khokhobaia and Temur Gugushvili);
-2. Where Georgian Tourism  and Russian Politics Meet (Gvantsa Salukvadze);
+1. Tourism Transformation in Georgia During the Soviet and Post-Soviet Eras (Merab Khokhobaia and Temur Gugushvili);
+2. The Intersection of Georgian Tourism and Russian Politics (Gvantsa Salukvadze);
 3. The Case for Rebuilding Tourism in Georgia: Alternative Forms and New Initiations (Lela Khartishvili).
 
 
