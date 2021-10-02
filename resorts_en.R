@@ -188,7 +188,7 @@ ggsave("visualization/tourism_all.png",
        plot = tourism_all,
        units = "mm",
        width = 100,
-       height = 75)     
+       height = 74)     
 
 
 #grouped all charts 
