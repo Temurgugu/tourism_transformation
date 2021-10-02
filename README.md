@@ -2,16 +2,16 @@
 
 
 
-The data prepared, analyzed and visualized for the special issue "Tourism in Georgia" in Caucasus Analytical Digest, which includes three articles:
+The data prepared, analyzed and visualized for the special issue "Tourism in Georgia: From Past Lessons to Future Perspectives" in Caucasus Analytical Digest, which includes three articles:
 
-1. Tourism transformation in Soviet and Post-Soviet Era (Merab Khokhobaia and Temur Gugushvili);
-2. Where Georgian Tourism  and Russian Politics Meet (Gvantsa Salukvadze);
+1. Tourism Transformation in Georgia During the Soviet and Post-Soviet Eras (Merab Khokhobaia and Temur Gugushvili);
+2. The Intersection of Georgian Tourism and Russian Politics (Gvantsa Salukvadze);
 3. The Case for Rebuilding Tourism in Georgia: Alternative Forms and New Initiations (Lela Khartishvili).
 
 
 --
 
-📊  **Resort/Tourism establishments//საკურორტო/ტურიზმის დაწესებულება | tourism_1939.csv(1939-1969)**
+📊  **Resort/Tourism establishments//საკურორტო/ტურიზმის დაწესებულება | khokhobaia_gugushvili_fig_1_tourism_1939.csv (1939-1969)**
 
 **Information Source:** Book - Soviet Socialist Republic Resort and Tourism of Georgia, Emil Kobakhidze, 1971 | page 31, 32 | table 6, 7
 
@@ -21,7 +21,7 @@ The data prepared, analyzed and visualized for the special issue "Tourism in Geo
 
 --
 
-📊 **Resort/Tourism establishments//საკურორტო/ტურისტული დაწესებულება | tourism_1939.csv(1988-1989)** 
+📊 **Resort/Tourism establishments//საკურორტო/ტურისტული დაწესებულება | khokhobaia_gugushvili_fig_1_tourism_1939.csv (1988-1989)** 
 
 **Information Source:** Book - Georgia and Tourism, Vaja Shubladze, 2004 | page 42
 
@@ -30,7 +30,7 @@ The data prepared, analyzed and visualized for the special issue "Tourism in Geo
 
 --
 
-📊 **Hotel and Hotel Type Establishment//სასტუმრო და სასტუმროს ტიპის დაწესებულება | tourism_1939.csv(2015-2021)** 
+📊 **Hotel and Hotel Type Establishment//სასტუმრო და სასტუმროს ტიპის დაწესებულება | khokhobaia_gugushvili_fig_1_tourism_1939.csv (2015-2021)** 
 
 **Information Source:** Georgian National Tourism Administration
 
@@ -42,7 +42,7 @@ The data prepared, analyzed and visualized for the special issue "Tourism in Geo
 
 --
 
-📊 **Trips//ვიზიტების რაოდენობა | khokhobaia_gugushvili_fig_3_tourism_trips_1995.csv (1995 - 2010)**
+📊 **Trips//ვიზიტების რაოდენობა | khokhobaia_gugushvili_fig_3_tourism_trips_1995.csv(1995 - 2010)**
 
 **Information Source:** World bank 
 
